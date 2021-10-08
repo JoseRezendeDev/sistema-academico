@@ -20,9 +20,9 @@ public class SistemaAcademicoApplication {
 
 		System.out.println(alunoService.getAlunos());
 
-//		System.out.println(aluno.consultarMedia());
-//		System.out.println(aluno.calcularFrequencia(TOTAL_AULAS));
-//		System.out.println(aluno.consultarStatus(TOTAL_AULAS));
+//		System.out.println(aluno1.consultarMedia());
+//		System.out.println(aluno1.calcularFrequencia(TOTAL_AULAS));
+//		System.out.println(aluno1.consultarStatus(TOTAL_AULAS));
 	}
 	
 }
